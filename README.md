@@ -28,25 +28,29 @@ Pero en esta clase vamos a encargarle al mismo [p5.js](https://p5js.org/) que ha
 
 ### Recursos
 
-- [Working with data - p5.js Tutorial](https://youtu.be/rJaXOFfwGVw?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
-- [Google Spreadsheet JSON Export](https://gist.github.com/pamelafox/1878143)
-- [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 - [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+- [Google Spreadsheet JSON Export](https://gist.github.com/pamelafox/1878143)
+- [JavaScript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
+- [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+- [Working with data - p5.js Tutorial](https://youtu.be/rJaXOFfwGVw?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
 ##### Datasets
 
 - [Cool Datasets](http://cooldatasets.com/)
 - [Corpora](https://github.com/dariusk/corpora)
 - [Datos de libre acceso del Banco Mundial](http://datos.bancomundial.org/)
-- [OpenWeatherMap](https://openweathermap.org/current)
 - [OECD data](https://data.oecd.org/)
 - [Portal de Datos Abiertos](http://datos.gob.cl/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/group/chl)
 
+##### APIs
+- [OpenWeatherMap](https://openweathermap.org/current)
+- [The New York Times Developer Network](http://developer.nytimes.com/)
+
 ### Actividad
 
-- Resolver los desafíos que se presentan en los documentos HTML del repositorio. 
+- Resolver los desafíos que se presentan en los documentos HTML del repositorio. Subir sus resultados en repositorio y GitHub Pages.
 
 ### Resultados
 
-- Respondiendo a [este Formulario de Google](https://docs.google.com/forms/d/e/1FAIpQLSf9K7AqnlMpJy1nHujpwcFKO1RVEydpvdskNhF9f5SLRxUhTg/viewform?usp=sf_link), puedes informar del resultado de la actividad
+- Respondiendo a [este Formulario de Google](https://docs.google.com/forms/d/e/1FAIpQLSf9K7AqnlMpJy1nHujpwcFKO1RVEydpvdskNhF9f5SLRxUhTg/viewform?usp=sf_link), puedes informar del resultado de la actividad.
