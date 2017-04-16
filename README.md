@@ -39,8 +39,6 @@ Pero en esta clase vamos a encargarle al mismo [p5.js](https://p5js.org/) que ha
 - [Cool Datasets](http://cooldatasets.com/)
 - [Corpora](https://github.com/dariusk/corpora)
 - [Datos de libre acceso del Banco Mundial](http://datos.bancomundial.org/)
-- [OECD data](https://data.oecd.org/)
-- [Portal de Datos Abiertos](http://datos.gob.cl/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/group/chl)
 
 ##### APIs
